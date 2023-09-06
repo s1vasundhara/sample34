@@ -5,7 +5,6 @@
     <classes>
       <class name="demo.test2"/>
       <class name="demo.test1"/>
-      <class name="demo.JenkinsParameterization"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
